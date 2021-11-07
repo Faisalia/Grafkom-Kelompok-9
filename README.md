@@ -1,5 +1,5 @@
 # Grafkom-Kelompok-9
-## Project Grafika Komputer - KOM300
+> Project Grafika Komputer - KOM300
 ## DANUSAN YUK?
 
 
