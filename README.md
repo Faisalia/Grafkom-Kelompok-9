@@ -1,8 +1,7 @@
 # Grafkom-Kelompok-9
-# Project Grafika Komputer - KOM300
-
+## Project Grafika Komputer - KOM300
 ## DANUSAN YUK?
-- Kelompok 4
+
 
 ## Dibimbing oleh :
 - Bang Rafi
