@@ -49,7 +49,8 @@
 lorem ipsum
 
 ## Latar Belakang
-lorem ipsum
+Ceritanya bermula dari mahasiswa semester pertama IPB University, panggil saja Rafly, yang ikut sebuah kepanitiaan acara. Acara yang ingin diadakan tinggal 2 minggu lagi tetapi dananya masih sangat kurang. Untuk memenuhi kurangnya dana tersebut, kadiv fundraising mengambil tindakan intruksi danusan untuk semua panitianya. Hanya saja ada suatu masalah, CCR, gedung kuliah untuk mahasiswa tingkat pertama menjadi salah satu gedung yg sangat ketat aturannya, termasuk aturan tidak boleh danusan disana. Dengan demikian, Rafly harus melewati berbagai tantangan untuk bisa danusan di CCR. Ayo, bantu Rafly agar ia dapat danusan dengan lancar tanpa ketahuan!
+
 ## Proses Pengembangan Produk
 lorem ipsum
 
